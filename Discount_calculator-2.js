@@ -38,7 +38,7 @@ function discountCalculator(totalAmount) {
     //Write your code below
     if(totalAmount >= 100){
         answer = (totalAmount - (0.1*totalAmount));
-    }else{
+    }else if(totalAmount>=0 && totalAmount<=99.99){
         answer = (totalAmount - (0.05*totalAmount));
     }
 return answer
