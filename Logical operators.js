@@ -21,4 +21,4 @@
 
 
 // && opeartor will return last truthy or first falsy value;
-// || operator will return last falsy and first truthy value;
+// || operator will return last falsy or first truthy value;
