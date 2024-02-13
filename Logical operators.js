@@ -16,6 +16,8 @@
 
 // Truthy values and falsy values
 
+// SHORT CIRCUIT EVALUATION
+
 // Truthy values = "hello! world",non-zero-numbers,non-empty-arrays,non-empyt-objects;
 // falsy values = (false, 0, "", null, undefined, and NaN) 
 
