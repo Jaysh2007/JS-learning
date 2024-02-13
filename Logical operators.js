@@ -18,3 +18,7 @@
 
 // Truthy values = "hello! world",non-zero-numbers,non-empty-arrays,non-empyt-objects;
 // falsy values = (false, 0, "", null, undefined, and NaN) 
+
+
+// && opeartor will return last truthy or first falsy value;
+// || operator will return last falsy and first truthy value;
